@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-
 import App from "./components/App"
 
 ReactDOM.render(
@@ -8,5 +7,5 @@ ReactDOM.render(
 );
 
 
-
-
+//Challenge. Render all the notes inside notes.js as a seperate Note
+//component.
